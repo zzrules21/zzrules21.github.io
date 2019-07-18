@@ -1,0 +1,69 @@
+Ayy new forums new place for me to finally dump all of my maps again. This is pretty much copy pasted from my post on my old forums, but either way it's here now which is neato.  
+
+# Remote Lands  
+
+The original 4 lane map, not really all that great for tournaments, but still alright to play for fun occasionally.  
+
+ - [Imgur Album](http://imgur.com/a/vTjs1)  
+ - [Download](http://www.mediafire.com/download/g5x3gtvsunx8ll1/RemoteLands-v2.1.zip)  
+
+# Twisted Ruins  
+
+Made for the BPF Mapmaking Contest (coming in a solid 7th place out of 10). I literally just wanted to see if I could do well in the contest by copying as many elements from other good and well known maps as possible (I don't really think it worked out too well). It seems to be well liked for tournaments, but the only reason it was even in a tournament is because Sub begged me. The map was updated to be compatible with 1.8 for the first RFW Annual Championships.  
+
+**EDIT**: I made a small update for the 2017 RFW Annual Championship. Changed a few chests around, changed second wool a little bit.
+
+**EDIT 2**: Small patch for the 2017 RFW Annual Championship, changelog is in the comments
+
+ - Imgur Album (shit I forgot I didn't make an Imgur album for this, I just linked to the original thread which was literally just PJSalt. I don't really feel like making an Imgur album for this so I'll just link to the archive of the [original thread](http://web.archive.org/web/20160407170338/http://rmct.tv/discussion/594/twisted-ruins)).   
+ - [Download](https://www.mediafire.com/?tx96zcxs0h2tm82)  
+
+# The Fourth Dawn  
+
+Damn, @koipen beat me to releasing the first map made specifically for 1.8, but I guess second isn't all that bad. Exact same concept as Tunnel Vision with a main lane and an iso lane in the middle. Press a button in the main lane to dispense a wool in the iso lane. I wanted to use as many neat things added in 1.8 as possible, which include (but are not limited to): volume target selector arguments, entity data commands, depth strider, endermites, the new prismarine types of blocks, and probably a couple more things that I can't really think of right now. It was definitely designed to be a late tournament map and would probably be fairly difficult for newer teams.  
+
+ - [Imgur Album](http://imgur.com/a/qaJdY)  
+ - [Download](https://www.mediafire.com/?nadgj4mal14rds5)  
+
+# Song of the South  
+
+Oh my god a standard, completely straight, not gimmicky map it's a miracle. I made a map before this one where my only goal was to try to make difficult pve wools. Long story short it wasn't terrible, but I didn't really like the cohesion between the areas, and I ended up finding out the pve command block fix anyway meaning the concept of the map wasn't needed at all, so I ended up scrapping the map and didn't bother trying to balance it. However, the second half of the map was a western/badlands type area that I really liked to look and feel of, and I didn't want to completely get rid of it, so out popped this map. The general layout of the map is admittedly extremely similar to Erosion so umm, whoops. there are three wools, one pve wool, one pvp wool, and a wool with the press a button to dispense the wool to a teammate concept, which is part pve wool and part pvp wool. It's been finished for around three weeks (from the initial posting of this thread on the old forums) and still hasn't really been tested so there are probably some things that are broken/unbalanced.  
+
+**EDIT**: I just made a massive update to Song of the South, more info on it's separate thread
+
+ - [Original Thread](https://raceforwool.org/f/maprelease/10)
+ - [Imgur Album](http://imgur.com/a/647Rm)  
+ - [Download](http://www.mediafire.com/download/esacuccgoo9acsc/SongoftheSouth-v1.0.1.zip)    
+
+# Winter's Escape  
+
+Created for the Post RAC Map Making Contest (results still pending). It's been finished long enough for me to finally throw in the towel and give a proper release for it. The map has yet to be played or tested so who knows how it will play. This is another 4-lane map. This time around though, I had a little bit more map making experience under my belt, and I wasn't trying to throw something together to just see if the 4-lane concept would work. I tried to incorporate things that I think I did well in some of my previous maps, while also trying to address some of the potential complaints with main lane/iso lane maps in general. The main lane has a winter cabin type of feel to it, while the iso lane is a bit of an homage to Ozone from OCN (as the map was created at around the time the OCN server shut down and Ozone was the map that got me into those servers in the first place).  
+
+ - Original Thread (Coming Soon)  
+ - Imgur Album (Coming Soon)  
+ - [Download](http://www.mediafire.com/file/te4i66yt9bmllef/WintersEscape-v1.1.zip/file)  
+
+# Other Maps  
+
+And I guess I helped out with these maps too so again for organization sake I'll put these maps here too I guess.  
+
+**Direct Fire Mini**  
+
+Pretty self explanatory. Also by @Contranaut and @csarpaul.  
+
+ - Original Thread (whoops I guess this didn't get archived).  
+ - [Download](http://www.mediafire.com/download/ckucz8o4zsls60a/DirectFireMini-v1.0.zip)  
+
+**Beginner's Touch**  
+
+Made by @Foldesi and me as a map for newer players for the third Open House.  
+
+ - Original Thread (whoops I guess this didn't get archived either).  
+ - [Download](http://www.mediafire.com/download/nehw191hdhy2ui1/BeginnersTouch-v1.5.zip)  
+
+**Precession Mini**  
+
+Started with the blessing from @Arahpthos as something to do to pass the time while my power/internet was out during Hurricane Matthew.  Unfortunately (fortunately? idk) my power wasn't out for too long so it didn't get finished for another couple of months afterwards. Other than that pretty self explanatory.  
+
+ - [Original Thread](https://raceforwool.org/f/maprelease/21)  
+ - [Download](http://www.mediafire.com/file/dwznk828ywv1wee/PrecessionMini-v1.0.zip/file)
