@@ -3,6 +3,215 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-small-business/blob/master/LICENSE)
  */
+
+
+
 body {
   padding-top: 56px;
+    background-color: #313131
+}
+
+header {
+    
+    padding-bottom: 36px;
+}
+
+.navbar {
+    
+    background-color: #212121;
+    
+}
+
+.ftr {
+    
+    background-color: #212121;
+    
+}
+
+.banner {
+    
+    position: absolute;
+    background-color: rgba(255,255,255,0.8);
+    width: 100%;
+    height: 40px;
+    
+}
+
+.banner .title {
+    
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: !important;
+    font-weight: 500;
+    margin-left: 3px;
+
+}
+
+.banner .subtitle {
+    
+    margin-top: -4px;
+    margin-left: 3px;
+    font-size: 12px;
+    
+}
+
+.hotel-item {
+    
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    max-width: 250px;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    margin: 1rem;
+    justify-content: center;
+
+    
+}
+
+.hotel-background {
+    
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    height: 150px;
+    
+}
+
+.hotel-background img {
+    
+    width: 100%;
+    height: 150px;
+    margin: ;
+    
+}
+
+.hotel-footer {
+    
+  padding: 0.25rem 0.25rem;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-top: 1px solid rgba(0, 0, 0, 0.125);
+    
+}
+
+.social-buttons-2 {
+    
+    text-align: center;
+    
+}
+
+.social-buttons-3 {
+    
+    text-align: center;
+    
+}
+
+.social-buttons-2 .fa {
+    
+    margin: 5px 17px;
+    
+}
+
+.social-buttons-3 .fa {
+    
+    margin: 5px 15px;
+    
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.main-text {
+    
+    position: absolute;
+    padding-top: 24rem;
+    padding-bottom: 50px;
+    font-size: 61px;
+    font-weight: 700;
+    line-height: 60px;
+    width: 100%;
+    text-align: center;   
+    
+}
+
+.sub-text {
+    
+    position: absolute;
+    font-size: 21px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 21px;
+    width: 100%;
+    text-align: center;
+    padding-top: 32.5rem;
+    
+    
+}
+
+.carousel-active {
+    
+    background-color: grey;
+    
+}
+
+.nav-active {
+    
+    background-color: darkblue;
+    
+}
+
+.fa {
+    
+    padding: 8px;
+    width: 30px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    margin: 5px 5px;
+    
+}
+
+.fa:hover {
+    
+    opacity: 0.7;
+    
+}
+
+.fa-facebook {
+    
+    background: #3B5998;
+    color: white;
+    
+}
+
+.fa-twitter {
+    
+    background: #55ACEE;
+    color: white;
+    
+}
+
+.fa-instagram {
+    
+    background: #c32aa3;
+    color: white;
+    
 }
