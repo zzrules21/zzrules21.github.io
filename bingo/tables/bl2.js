@@ -1,163 +1,179 @@
 var bingoList = [];
 
 bingoList[1] = [
-    { name:"Map Card", types: ["map"] },
-    { name:"Itemfinder", types: ["finder"] },
-    { name:"Radio Card", types: ["radio"] },
-    { name:"Do not heal at any Pokemon Centers", types: ["instant"] }
+    { name:"Solve the murder of Justin MacReady", types: ["sanctuary"] },
+    { name:"Uncover the history of the Crimson Raiders in Sanctuary", types: ["sanctuary"] },
+    { name:"Clear Liar's Berg of Bullymongs", types: ["shelf"] },
+    { name:"Complete 'Rock, Paper, Genocide'", types: ["sanctuary"] },
+    { name:"Open Claptrap's Stash", types: ["sanctuary"] },
+    { name:"Stand on top of the Happy Pig Motel", types: ["valley"] }
 ];
 bingoList[2] = [
-    { name:"Stormbadge", types: ["fly"] },
-    { name:"Exp Share", types: ["itemget"] },
-    { name:"80 Pokemon seen", types: ["pkmn"] },
-    { name:"Defeat a Gym Leader with animations on", types: ["leader"] }
+    { name:"Pay the toll in Bloodshot Ramparts", types: ["ramparts"] },
+    { name:"Find Solitare's Camp in the Caustic Caverns", types: ["caustic"] },
+    { name:"Recount the Story of Helena Pierce", types: ["shelf"] },
+    { name:"Complete 'Do No Harm'", types: ["shelf"] }
 ];
 bingoList[3] = [
-    { name:"Nickname a pokemon with a Twitch emote", types: ["kappa"] },
-    { name:"5 Different types of Poke Ball", types: ["ball"] },
-    { name:"Give a Pokemon a haircut", types: ["snip"] },
-    { name:"Teach TM12", types: ["tms"] }
+    { name:"Clear the Caustic Cavern mines of Creepers", types: ["caustic"] },
+    { name:"Buy a Shield from the Old Crimson Raider Hideout", types: ["shelf"] },
+    { name:"Complete 'In Memoriam'", types: ["divide"] },
+    { name:"Decorate Ellie's Garage with hood ornaments", types: ["dust"] },
+    { name:"Start the Clan War between the Zafords and Hodunks", types: ["dust", "highlands"] },
+    { name:"Complete 'Cult Following: Eternal Flame'", types: ["cult", "frostburn"] },
+    { name:"Kill all 5 members of the Splinter Group", types: ["bloodshot"] },
+    { name:"Complete 'No Hard Feelings'", types: ["tundra"] }
 ];
 bingoList[4] = [
-    { name:"Call a Youngster", types: ["shorts"] },
-    { name:"TM05 (Roar)", types: ["roar"] },
-    { name:"TM10 (Hidden power)", types: ["maze"] },
-    { name:"0 items in item pocket", types: ["endgame"] },
-    { name:"Mystic Water", types: ["typeitem"] }
+    { name:"Complete 'The Name Game'", types: ["shelf", "divide"] },
+    { name:"Kill Doc Mercy", types: ["valley"] },
+    { name:"Restore power to the Happy Pig Motel", types: ["valley"] },
+    { name:"Complete 'To Close for Missiles'", types: ["dust"] },
+    { name:"Complete 'Mine, All Mine'", types: ["tundra"] },
+    { name:"Finish the first round of the Bandit Slaughter'", types: ["finks", "slaughter"] },
+    { name:"Collect all 5 chapters of Taggert's autobiography'", types: ["highlands"] },
+    { name:"Recover Moxxi's photos from Blue'", types: ["caustic"] },
+    { name:"Collect arms from around the Highlands'", types: ["highlands"] },
+    { name:"Complete 'Swallowed Whole''", types: ["fridge"] },
+    { name:"Uncover the history of Crystalisks'", types: ["caustic"] },
+    { name:"Deliver medicine to the residents of Overlook'", types: ["highlands"] }
 ];
 bingoList[5] = [
-    { name:"TM27 (Return)", types: ["day", "sunday"] },
-    { name:"Use a 4x super-effective move", types: ["parasect"] },
-    { name:"Push 4 boulders into holes", types: ["icepath"] },
-    { name:"TM50 (Nightmare)", types: ["kenya"] }
+    { name:"Complete 'Out of Body Experience'", types: ["ramparts"] },
+    { name:"Complete 'Mighty Morphin''", types: ["tundra", "caustic"] },
+    { name:"Complete 'Bad Hair Day'", types: ["shelf", "divide"] },
+    { name:"Kill the 4 assassins in Southpaw Steam and Power", types: ["southpaw"] },
+    { name:"Kill the False Idol Scorch", types: ["frostburn"] },
+    { name:"Recover Mordecai's loot from the Dust", types: ["dust"] },
+    { name:"Un-brainwash Laney White", types: ["fridge"] }
 ];
 bingoList[6] = [
-    { name:"Release starter before level 11", types: ["starter"] },
-    { name:"7 different berries", types: ["mystery"] },
-    { name:"3 eggs", types: ["egg"] },
-    { name:"Charcoal", types: ["typeitem"] }
+    { name:"Jump on all 5 couches in Bloodshot Stronghold", types: ["bloodshot"] },
+    { name:"Deliver packages to the residents of Split Skull Bay", types: ["valley"] },
+    { name:"Complete 'You Are Cordially Invited: Party Prep'", types: ["tundra"] },
+    { name:"Kill Ol' Slappy", types: ["highlands"] },
+    { name:"Escort the minecart through the Caustic Caverns", types: ["caustic"] },
+    { name:"Attend Claptrap's Birthday Bash", types: ["sanctuary"] },
+    { name:"Crash the race at the Hodunk Speedway", types: ["dust"] },
+    { name:"Build a protective shield for Overlook", types: ["highlands"] },
+    { name:"Collect Tannis' journals around the Highlands", types: ["highlands"] },
+    { name:"Complete Doctor's Orders", types: ["wep"] }
 ];
 bingoList[7] = [
-    { name:"Slowpoketail", types: ["money"] },
-    { name:"10 pokemon owned", types: ["pkmn"] },
-    { name:"Defeat all 4 trainers in National Park", types: ["park"] },
-    { name:"A pokemon with 4 damaging moves with STAB", types: ["stab"] }
+    { name:"Invite Fleshstick to Tina's tea party", types: ["tundra"] },
+    { name:"Rob the Hyperion train in Ripoff Station", types: ["tundra"] },
+    { name:"Complete 'Ice Man Cometh'", types: ["valley, divide"] },
+    { name:"Avenge Taggert by killing Henry", types: ["highlands"] },
+    { name:"Reach the Hodunk's dead drop in the Holy Spirits", types: ["highlands"] },
 ];
 bingoList[8] = [
-    { name:"2 PokÃ©mon that start with the same letter", types: ["letter"] },
-    { name:"Defeat Rival in the underground", types: ["rival"] },
-    { name:"King's Rock", types: ["itemget"] },
-    { name:"Soft Sand", types: ["dig"] },
-    { name:"Clear Sprout Tower", types: ["earlygame"] }
+    { name:"Complete 'Note for Self-Person'", types: ["fridge"] },
+    { name:"Complete 'Torture Chairs'", types: ["sanctuary"] },
+    { name:"Shoot Face McShooty everywhere EXCEPT the face", types: ["1kcuts"] },
+    { name:"'Kill' Bloodwing", types: ["wep", "story"] }
 ];
 bingoList[9] = [
-    { name:"Defeat Lapras", types: ["day"] },
-    { name:"Max Phonebook", types: ["phone"] },
-    { name:"Split experience 6 ways", types: ["shift"] },
-    { name:"Encounter Suicune on route 42", types: ["suicune"] },
-    { name:"Glacierbadge", types: ["ice"] }
+    { name:"Kill Midgemong and his midget rider", types: ["shelf"] },
+    { name:"Complete 'Medical Mystery: X-Com-municate'", types: ["valleyc"] },
+    { name:"Escort Matchstick to Flynt's ship", types: ["shelf"] },
+    { name:"Complete the second round of the Bandit Slaughter", types: ["finks", "slaughter"] },
+    { name:"Fully test Overlook's new shield", types: ["highlands"] },
+    { name:"Defend Tina's tea party from hostile dinner guests", types: ["tundra"] },
+    { name:"Kill the Bagman in the Zaford cash stash", types: ["highlands"] }
 ];
 bingoList[10] = [
-    { name:"Use 5 HM moves outside of battle", types: ["hms"] },
-    { name:"A shiny Pokemon", types: ["waters"] },
-    { name:"Catch a Pokemon by fishing", types: ["fish"] },
-    { name:"A PP healing item", types: ["mysteryberry"] },
-    { name:"Heal a status with a held berry", types: ["status"] }
+    { name:"Complete 'Rakkaholics Anonymous'", types: ["dust"] },
+    { name:"Destroy the Hodunk's trailers", types: ["dust"] },
+    { name:"Complete 'Poetic License'", types: ["1kcuts"] },
+    { name:"Complete 'Cult Following: The Enkindling'", types: ["frostburn"] }
 ];
 bingoList[11] = [
-    { name:"Catch a pokemon that knows a damaging STAB move", types: ["stab"] },
-    { name:"Use a move powered up by a hold item", types: ["typeitem"] },
-    { name:"A Pokemon with a 5 PP non-TM move", types: ["move"] },
-    { name:"Use the same move an enemy Pokemon just used", types: ["repeat"] },
-    { name:"Defeat Electrode", types: ["static"] }
+    { name:"Crash the Zaford's Wake", types: ["highlands"] },
+    { name:"Complete 'The Once and Future Slab'", types: ["1kcuts", "story"] },
+    { name:"Complete the third round of the Bandit Slaughter", types: ["finks", "slaughter"] },
+    { name:"Complete 'Clan War: Zafords vs Hodunks'", types: ["dust"] }
 ];
 bingoList[12] = [
-    { name:"TM28, TM40, or TM46", types: ["shuffle"] },
-    { name:"Go through Dark Cave", types: ["dank"] },
-    { name:"A Pokemon with 4 non-TM status moves", types: ["hms"] },
-    { name:"Win Bug Catching Contest", types: ["day"] }
+    { name:"Rescue the animals from the Wildlife Exploitation Preserve", types: ["wep"] },
+    { name:"Meet up with Rocko in Thousand Cuts", types: ["1kcuts"] },
+    { name:"Complete 'Written by the Victor'", types: ["opportunity"] },
+    { name:"Complete 'The Man Who Would Be Jack'", types: ["opportunity", "story"] },
+    { name:"Destroy Jack's construction site in Opportunity", types: ["opportunity"] },
+    { name:"Blow up the Eridium train in Lynchwood", types: ["lynchwood"] },
 ];
 bingoList[13] = [
-    { name:"TM13 (Snore)", types: ["zzz"] },
-    { name:"20 Pokemon owned", types: ["pkmn"] },
-    { name:"Mineralbadge", types: ["steel"] },
-    { name:"Beedrill or Butterfree", types: ["bugs"] }
+    { name:"Complete 'Animal Rescue: Medicine'", types: ["lynchwood"] },
+    { name:"Complete 'Home Movies'", types: ["opportunity"] },
+    { name:"Defend Slab Tower from the Hyperion onslaught", types: ["1kcuts"] }
 ];
 bingoList[14] = [
-    { name:"Nidoking or Nidoqueen", types: ["drill"] },
-    { name:"A Ghost or Dragon-type Pokemon", types: ["typepkmn"] },
-    { name:"A Pokemon with only one possible gender", types: ["conditioncatch"] },
-    { name:"A Pokemon with at least 5 weaknesses", types: ["conditioncatch"] },
-    { name:"Win 8 or more coins from slots", types: ["gamble"] }
+    { name:"Acquire The Bane", types: ["dust", "lynchwood"] },
+    { name:"Complete 'Breaking the Bank'", types: ["lynchwood"] },
+    { name:"Complete 'Animal Rescue: Food'", types: ["lynchwood"] }
 ];
 bingoList[15] = [
-    { name:"A Pokemon with a stat lower than its level", types: ["jynx"] },
-    { name:"Catch 4 different Pokemon on Route 31", types: ["earlygame"] },
-    { name:"A Dark or Steel-type Pokemon", types: ["typepkmn"] },
-    { name:"A Pokemon with red bar HP", types: ["endgame"] }
+    { name:"Complete the fourth round of the Bandit Slaughter", types: ["finks", "slaughter"] },
+    { name:"Complete 'Animal Rescue: Shelter'", types: ["lynchwood"] },
+    { name:"Kill Bunker", types: ["1kcuts", "story"] }
 ];
 bingoList[16] = [
-    { name:"Land a move with at most 70 accuracy", types: ["miss"] },
-    { name:"A Pokemon weighing at least 300 lbs", types: ["heavy"] },
-    { name:"Defeat a gym leader using only HM moves", types: ["leader"] },
-    { name:"Rematch a trainer", types: ["phone"] },
-    { name:"A Legendary Pokemon", types: ["legend"] }
+    { name:"Complete 'Statuesque'", types: ["opportunity"] },
+    { name:"Kill Nisha", types: ["lynchwood"] },
+    { name:"Complete the fifth round of the Bandit Slaughter", types: ["finks", "slaughter"] },
+    { name:"Teleport into Marcus' Storeroom", types: ["1kcuts", "story"] }
 ];
 bingoList[17] = [
-    { name:"A baby Pokemon", types: ["baby"] },
-    { name:"A Pokemon with a multi-hit move", types: ["move"] },
-    { name:"Use a stone to evolve a Pokemon", types: ["evolve"] },
-    { name:"Defeat 10 Pokemaniacs", types: ["train"] }
+    { name:"Inform Sanctuary of Roland's death", types: ["sanctuary"] },
+    { name:"Complete 'The Chosen One'", types: ["sawtooth"] },
+    { name:"Complete 'Monster Mash (Part 1)'", types: ["mash"] },
+    { name:"Call the Hyperion Suicide Prevention Hotline", types: ["blight"] }
 ];
 bingoList[18] = [
-    { name:"3 level 30 pokemon", types: ["red"] },
-    { name:"Turn an apricorn into a ball", types: ["ball"] },
-    { name:"Use Struggle", types: ["pp"] },
-    { name:"Poison an enemy Pokemon", types: ["status"] }
+    { name:"Find Clothes for Mal", types: ["blight"] },
+    { name:"Check on Jack's Grandmother", types: ["blight"] }
 ];
 bingoList[19] = [
-    { name:"5 different Flying-type Pokemon", types: ["catch6"] },
-    { name:"Trade a Pokemon", types: ["trade"] },
-    { name:"Defeat a level 40 Pokemon", types: ["suicune"] },
-    { name:"Use a non-HM move out of battle", types: ["move"] },
-    { name:"No money on hand or mom", types: ["money"] }
+    { name:"Complete the first round of the Hyperion Slaughter", types: ["chasm", "slaughter"] },
+    { name:"Complete 'The Great Escape'", types: ["sawtooth"] }
 ];
 bingoList[20] = [
-    { name:"Everstone", types: ["day"] },
-    { name:"5 different Water-type Pokemon", types: ["catch6"] },
-    { name:"Defeat all 8 trainers on route 32", types: ["train"] },
-    { name:"Stop starter from evolving", types: ["raise", "starter"] },
-    { name:"Get confused by your own move", types: ["suicide"] }
+    { name:"Recover Marcus' refund checks", types: ["blight"] },
+    { name:"Complete 'Toil and Trouble'", types: ["sawtooth", "story"] },
+    { name:"Complete 'Monster Mash (Part 2)'", types: ["mash"] }
 ];
 bingoList[21] = [
-    { name:"Defeat 8 swimmers", types: ["train"] },
-    { name:"20 TMs", types: ["tms"] },
-    { name:"TM21 (Frustration)", types: ["happy", "sunday"] },
-    { name:"A Pokemon with an evasion boosting move", types: ["move"] }
+    { name:"Kill Bonehead 2.0", types: ["badlands"] },
+    { name:"Collect Limbs for Mal", types: ["blight"] },
+    { name:"Complete the second round of the Hyperion Slaughter", types: ["chasm", "slaughter"] },
+    { name:"Kill Mal", types: ["blight"] },
+    { name:"Kill Hunter hellquest", types: ["boneyard"] }
 ];
 bingoList[22] = [
-    { name:"Electabuzz, Magmar, or Jynx", types: ["lose"] },
-    { name:"Do not use any repels", types: ["instant"] },
-    { name:"Faint your Pokemon with your own move", types: ["suicide"] },
-    { name:"Solve 2 puzzles at the Ruins of Alph", types: ["unown"] }
+    { name:"Kill Dukino's Mom", types: ["lynchwood"] },
+    { name:"Complete 'Uncle Teddy'", types: ["badlands"] },
+    { name:"Complete 'Monster Mash (Part 3)", types: ["boneyard", "frostburn", "mash"] }
 ];
 bingoList[23] = [
-    { name:"Train Kenya to level 30", types: ["raise", "kenya"] },
-    { name:"3 Pokemon in the same evolution chain", types: ["evolve"] },
-    { name:"30 Pokemon owned", types: ["pkmn"] },
-    { name:"Evolve 4 different Pokemon", types: ["evolve, pkmncount"] }
+    { name:"Complete 'Data Mining'", types: ["boneyard", "badlands", "story"] },
+    { name:"Complete 'Hungry Like the Skag'", types: ["badlands"] },
+    { name:"Complete 'Get to Know Jack'", types: ["badlands", "boneyard"] },
+    { name:"Lower Mortar's flags around Sawtooth Cauldron", types: ["sawtooth"] },
+    { name:"Complete the third round of the Hyperion Slaughter", types: ["chasm", "slaughter"] }
 ];
 bingoList[24] = [
-    { name:"A Pokemon with exactly 50 Speed", types: ["stat"] },
-    { name:"4 Pokemon with adjacent national dex numbers", types: ["pkmncount"] },
-    { name:"Defeat all 12 trainers in Union Cave", types: ["train"] },
-    { name:"$50,000", types: ["money"] }
+    { name:"Complete the fourth round of the Hyperion Slaughter", types: ["chasm", "slaughter"] },
+    { name:"Find all 3 engineer's toilets in Hero's Pass", types: ["pass"] },
+    { name:"Disable all 3 grinder arm control panels in Hero's Pass", types: ["pass"] },
+    { name:"Discover 2 Vault Symbols in Heros Pass", types: ["pass", "symbol"] }
 ];
 bingoList[25] = [
-    { name:"Use a Master Ball", types: ["clair"] },
-    { name:"Do not use Fly", types: ["instant"] },
-    { name:"Defeat Falkner with original starter", types: ["starter"] },
-    { name:"Teach 4 TMs to the same Pokemon", types: ["tms"] }
+    { name:"Discover Vault Symbol in the Vault of the Warrior", types: ["vault", "symbol"] },
+    { name:"Find the last of the Fire Worshipers in the Vault of the Warrior", types: ["vault"] },
+    { name:"Kill the Warrior", types: ["vault", "story"] },
+    { name:"Kill Terramorphous", types: ["terra"] },
+    { name:"Find 1 of the Vault Symbols in Terramorphous Peak", types: ["terra", "symbol"] },
+    { name:"Complete the fifth round of the Hyperion Slaughter", types: ["chasm", "slaughter"] }
+
 ];
 
 
