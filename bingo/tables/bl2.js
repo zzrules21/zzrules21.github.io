@@ -39,13 +39,14 @@ bingoList[4] = [
     { name:"Deliver medicine to the residents of Overlook'", types: ["highlands", "karima"] }
 ];
 bingoList[5] = [
-    { name:"Complete 'Out of Body Experience'", types: ["ramparts"] },
+    { name:"Complete 'Out of Body Experience'", types: ["ramparts", "talk"] },
     { name:"Complete 'Mighty Morphin''", types: ["tundra", "caustic"] },
     { name:"Complete 'Bad Hair Day'", types: ["shelf", "divide"] },
     { name:"Kill the 4 assassins in Southpaw Steam and Power", types: ["southpaw"] },
     { name:"Kill the False Idol Scorch", types: ["frostburn", "cult"] },
     { name:"Recover Mordecai's loot from the Dust", types: ["dust"] },
-    { name:"Un-brainwash Laney White", types: ["fridge"] }
+    { name:"Un-brainwash Laney White", types: ["fridge"] },
+    { name:"Obtain a talking weapon", types: ["talk", "weapon"] }
 ];
 bingoList[6] = [
     { name:"Jump on all 5 couches in Bloodshot Stronghold", types: ["bloodshot"] },
@@ -64,13 +65,14 @@ bingoList[7] = [
     { name:"Rob the Hyperion train in Ripoff Station", types: ["tundra"] },
     { name:"Complete 'Ice Man Cometh'", types: ["valley, divide"] },
     { name:"Avenge Taggert by killing Henry", types: ["highlands"] },
-    { name:"Reach the Hodunk's dead drop in the Holy Spirits", types: ["highlands", "war"] },
+    { name:"Reach the Hodunk's dead drop in the Holy Spirits", types: ["highlands", "war"] }
 ];
 bingoList[8] = [
     { name:"Complete 'Note for Self-Person'", types: ["fridge"] },
     { name:"Complete 'Torture Chairs'", types: ["sanctuary"] },
     { name:"Shoot Face McShooty everywhere EXCEPT the face", types: ["1kcuts"] },
-    { name:"'Kill' Bloodwing", types: ["wep", "story"] }
+    { name:"'Kill' Bloodwing", types: ["wep", "story"] },
+    { name:"'Collect 6 different unique or legendary weapons (excluding the Lascaux)", types: ["weapon"] }
 ];
 bingoList[9] = [
     { name:"Kill Midgemong and his midget rider", types: ["shelf"] },
@@ -91,7 +93,8 @@ bingoList[11] = [
     { name:"Crash the Zaford's Wake", types: ["highlands", "war"] },
     { name:"Complete 'The Once and Future Slab'", types: ["1kcuts", "story"] },
     { name:"Complete the third round of the Bandit Slaughter", types: ["finks", "slaughter"] },
-    { name:"Complete 'Clan War: Zafords vs Hodunks'", types: ["dust", "war"] }
+    { name:"Complete 'Clan War: Zafords vs Hodunks'", types: ["dust", "war"] },
+    { name:"Kill the Son of Mothrakk", types: ["wep"] }
 ];
 bingoList[12] = [
     { name:"Rescue the animals from the Wildlife Exploitation Preserve", types: ["wep"] },
@@ -99,7 +102,7 @@ bingoList[12] = [
     { name:"Complete 'Written by the Victor'", types: ["opportunity"] },
     { name:"Complete 'The Man Who Would Be Jack'", types: ["opportunity", "story"] },
     { name:"Destroy Jack's construction site in Opportunity", types: ["opportunity"] },
-    { name:"Blow up the Eridium train in Lynchwood", types: ["lynchwood"] },
+    { name:"Blow up the Eridium train in Lynchwood", types: ["lynchwood"] }
 ];
 bingoList[13] = [
     { name:"Complete 'Animal Rescue: Medicine'", types: ["lynchwood", "rescue"] },
@@ -107,51 +110,61 @@ bingoList[13] = [
     { name:"Defend Slab Tower from the Hyperion onslaught", types: ["1kcuts"] }
 ];
 bingoList[14] = [
-    { name:"Acquire The Bane", types: ["dust", "lynchwood"] },
+    { name:"Acquire The Bane", types: ["dust", "lynchwood", "talk"] },
     { name:"Complete 'Breaking the Bank'", types: ["lynchwood"] },
-    { name:"Complete 'Animal Rescue: Food'", types: ["lynchwood", "rescue"], }
+    { name:"Complete 'Animal Rescue: Food'", types: ["lynchwood", "rescue"], },
+    { name:"Complete the fourth round of the Bandit Slaughter", types: ["finks", "slaughter"] }
+
 ];
 bingoList[15] = [
-    { name:"Complete the fourth round of the Bandit Slaughter", types: ["finks", "slaughter"] },
     { name:"Complete 'Animal Rescue: Shelter'", types: ["lynchwood", "rescue"] },
-    { name:"Kill Bunker", types: ["1kcuts", "story"] }
+    { name:"Kill Bunker", types: ["1kcuts", "story"] },
+    { name:"Obtain 2 talking weapons", types: ["weapon", "talk"] },
+    { name:"Complete 'Statuesque'", types: ["opportunity"] },
+    { name:"Kill Nisha", types: ["lynchwood"] }
 ];
 bingoList[16] = [
-    { name:"Complete 'Statuesque'", types: ["opportunity"] },
-    { name:"Kill Nisha", types: ["lynchwood"] },
     { name:"Complete the fifth round of the Bandit Slaughter", types: ["finks", "slaughter"] },
-    { name:"Teleport into Marcus' Storeroom", types: ["1kcuts", "story"] }
+    { name:"Teleport into Marcus' Storeroom", types: ["1kcuts", "story"] },
+    { name:"Complete BFFs", types: ["Sanctuary"] }
+
 ];
 bingoList[17] = [
     { name:"Inform Sanctuary of Roland's death", types: ["sanctuary"] },
     { name:"Complete 'The Chosen One'", types: ["sawtooth"] },
     { name:"Complete 'Monster Mash (Part 1)'", types: ["mash"] },
-    { name:"Call the Hyperion Suicide Prevention Hotline", types: ["blight"] }
+    { name:"Call the Hyperion Suicide Prevention Hotline", types: ["blight"] },
+    { name:"Destroy the 4 communication dishes in Eridium Blight", types: ["blight"] }
 ];
 bingoList[18] = [
     { name:"Find Clothes for Mal", types: ["blight", "mal"] },
-    { name:"Check on Jack's Grandmother", types: ["blight"] }
+    { name:"Check on Jack's Grandmother", types: ["blight"] },
+    { name:"Find and kill Geary", types: ["blight"] },
+    { name:"Destroy 5 Hyperion turrets in Eridium Blight", types: ["blight"] }
 ];
 bingoList[19] = [
     { name:"Complete the first round of the Hyperion Slaughter", types: ["chasm", "slaughter"] },
-    { name:"Complete 'The Great Escape'", types: ["sawtooth"] }
+    { name:"Recover Marcus' refund checks", types: ["blight"] },    
+    { name:"Find 3 Vault Symbols in Eridium Blight", types: ["blight",  "blight"] }
 ];
 bingoList[20] = [
-    { name:"Recover Marcus' refund checks", types: ["blight"] },
     { name:"Complete 'Toil and Trouble'", types: ["sawtooth", "story"] },
-    { name:"Complete 'Monster Mash (Part 2)'", types: ["mash"] }
+    { name:"Complete 'Monster Mash (Part 2)'", types: ["mash"] },
+    { name:"Obtain all 3 talking weapons", types: ["talk", "weapon"] },
+    { name:"Complete 'The Great Escape'", types: ["sawtooth"] }
 ];
 bingoList[21] = [
     { name:"Kill Bonehead 2.0", types: ["badlands"] },
     { name:"Collect Limbs for Mal", types: ["blight", "mal"] },
     { name:"Complete the second round of the Hyperion Slaughter", types: ["chasm", "slaughter"] },
     { name:"Kill Mal", types: ["blight", "mal"] },
-    { name:"Kill Hunter hellquest", types: ["boneyard"] }
+    { name:"Kill Hunter Hellquest", types: ["boneyard"] }
 ];
 bingoList[22] = [
     { name:"Kill Dukino's Mom", types: ["lynchwood", "rescue"] },
     { name:"Complete 'Uncle Teddy'", types: ["badlands"] },
-    { name:"Complete 'Monster Mash (Part 3)", types: ["boneyard", "frostburn", "mash"] }
+    { name:"Complete 'Monster Mash (Part 3)", types: ["boneyard", "frostburn", "mash"] },
+    { name:"Kill Saturn", types: ["badlands"] }
 ];
 bingoList[23] = [
     { name:"Complete 'Data Mining'", types: ["boneyard", "badlands", "story"] },
