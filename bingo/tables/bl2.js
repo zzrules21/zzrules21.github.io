@@ -126,15 +126,14 @@ bingoList[15] = [
 bingoList[16] = [
     { name:"Complete the fifth round of the Bandit Slaughter", types: ["finks", "slaughter"] },
     { name:"Teleport into Marcus' Storeroom", types: ["1kcuts", "story"] },
-    { name:"Complete BFFs", types: ["Sanctuary"] }
-
+    { name:"Complete BFFs", types: ["Sanctuary"] },
+    { name:"Destroy the 4 communication dishes in Eridium Blight", types: ["blight"] }
 ];
 bingoList[17] = [
     { name:"Inform Sanctuary of Roland's death", types: ["sanctuary"] },
     { name:"Complete 'The Chosen One'", types: ["sawtooth"] },
     { name:"Complete 'Monster Mash (Part 1)'", types: ["mash"] },
-    { name:"Call the Hyperion Suicide Prevention Hotline", types: ["blight"] },
-    { name:"Destroy the 4 communication dishes in Eridium Blight", types: ["blight"] }
+    { name:"Call the Hyperion Suicide Prevention Hotline", types: ["blight"] }
 ];
 bingoList[18] = [
     { name:"Find Clothes for Mal", types: ["blight", "mal"] },
